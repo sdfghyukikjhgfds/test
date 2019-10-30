@@ -1,7 +1,4 @@
-Hi Siddhu,
+This is my first git version controlling file.
 
-I hope you are fine.
-
-Thanks
-
-Siddhartha
+Thanks & Regards
+Siddhartha 
